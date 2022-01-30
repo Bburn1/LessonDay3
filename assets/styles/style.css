@@ -1,0 +1,38 @@
+html {
+  scroll-behavior: smooth;
+}
+p {
+  margin: 20px 0;
+  text-indent: 25px;
+  /* font-size: 14px; */
+}
+.img-container {
+  float: right;
+  border: 2px solid grey;
+  width: auto;
+  height: auto;
+  margin: 3px 1px 7px 7px;
+}
+img {
+  padding: 10px;
+  width: 250px;
+  height: 300px;
+}
+main {
+  position: relative;
+}
+.arcticle {
+  font-size: 20px;
+}
+#B {
+  font-weight: 900;
+}
+
+#C {
+  font-style: italic;
+}
+
+#S {
+  font-stretch: ultra-condensed;
+  color: teal;
+}
